@@ -1,1 +1,1 @@
-export * from './lib/vercel-ai-sdk';
+export * from './lib/generate-text'
